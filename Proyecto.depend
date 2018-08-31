@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1496442114 source:c:\users\root\desktop\c\sl\proyecto\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<ctime>
+	<sstream>
+	<windows.h>
+	<string.h>
+
+1496439963 source:c:\users\rootultimate\desktop\c\proyecto  saul\proyecto\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<ctime>
+	<sstream>
+	<windows.h>
+	<string.h>
+
